@@ -53,13 +53,14 @@ Script_cfDNA_somatic_variant_analysis/
 ```
 
 **Requirements**
+```text
     1.Linux environment
     2.SLURM workload manager
     3.Python 3.12+
     4.GATK 4.6+
     5.NVIDIA Parabricks
     6.Ensembl VEP-annotated VCFs
-
+```
 **NOTES**
 -All sample identifiers shown are anonymized placeholders.
 -File paths are generalized for reproducibility purposes.
