@@ -24,9 +24,9 @@ graph TD
 
     %% Link to the Classification Tree
     H --> ClassA[Class A]
-    ClassA --> B1[Class B1]
-    ClassA --> B2[Class B2]
-    ClassA --> C1[Class C]
+    H --> ClassB1[Class B1]
+    H --> ClassB2[Class B2]
+    H --> ClassC1[Class C]
 ```
 
 **Repository Structure**
