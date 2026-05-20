@@ -1,0 +1,3 @@
+/path/to/Sample01_TNM_somatic_PASS.vcf
+/path/to/Sample02_TNM_somatic_PASS.vcf
+/path/to/Sample03_TNM_somatic_PASS.vcf

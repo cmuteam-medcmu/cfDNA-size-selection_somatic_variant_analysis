@@ -1,0 +1,3 @@
+/path/to/Sample01_tumoronly_somatic_PASS.vcf
+/path/to/Sample02_tumoronly_somatic_PASS.vcf
+/path/to/Sample03_tumoronly_somatic_PASS.vcf
