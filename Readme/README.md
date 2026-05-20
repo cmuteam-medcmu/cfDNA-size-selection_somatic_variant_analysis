@@ -30,6 +30,7 @@ graph TD
 ```
 
 **Repository Structure**
+```text
 Script_cfDNA_somatic_variant_analysis/
 │
 ├── 01_Variant_calling/
@@ -49,6 +50,7 @@ Script_cfDNA_somatic_variant_analysis/
 │   └── README.md
 │
 └── README.md
+```
 
 **Requirements**
     1.Linux environment
