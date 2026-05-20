@@ -26,7 +26,7 @@ Both workflows use:
 
 
 **Workflow**
-
+```text
 BAM
     ↓
 Mutect2
@@ -36,3 +36,4 @@ PostPON
 FilterMutectCalls
     ↓
 PASS somatic VCF
+```
