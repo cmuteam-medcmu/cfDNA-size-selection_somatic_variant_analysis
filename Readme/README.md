@@ -3,11 +3,13 @@
 This repository contains scripts used for somatic variant calling, post-filtering, and variant classification in cfDNA whole-genome sequencing analysis.
 
 The workflow includes:
+```text
     1. Somatic variant calling using Mutect2/Parabricks
     2. Tumor-only and tumor-normal comparison
     3. TLOD and GERMQ-based post filtering 
     4. Annotation by Ensembl-VEP and PanDrugs
-    5. Classification (supported by COSMIC and Ensembl prediction tools).
+    5. Classification (supported by COSMIC and Ensembl prediction tools)
+```
 This script provided in this repository are minimally modified versions of the original execution script used in this study. Sample identifiers and file paths have been anonymized while preserving the original computational workflow.
 
 **Workflow overview**
@@ -62,6 +64,8 @@ Script_cfDNA_somatic_variant_analysis/
     6.Ensembl VEP-annotated VCFs
 ```
 **NOTES**
+```text
 -All sample identifiers shown are anonymized placeholders.
 -File paths are generalized for reproducibility purposes.
 -Original computational logic was preserved.
+```
