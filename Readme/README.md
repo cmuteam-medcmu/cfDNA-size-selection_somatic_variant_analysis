@@ -7,7 +7,7 @@ The workflow includes:
     2. Tumor-only and tumor-normal comparison
     3. TLOD and GERMQ-based post filtering 
     4. Annotation by Ensembl-VEP and PanDrugs
-    5. Classification (supported by COSMIC and Ensembl prediction tools)
+    5. Classification (supported by COSMIC and Ensembl prediction tools).
 This script provided in this repository are minimally modified versions of the original execution script used in this study. Sample identifiers and file paths have been anonymized while preserving the original computational workflow.
 
 **Workflow overview**
