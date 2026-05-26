@@ -16,7 +16,7 @@ This script provided in this repository are minimally modified versions of the o
 ```mermaid
 graph TD
     %% Pipeline Flow
-    A[Raw BAM files] --> B["Mutect2 / Clara Parabricks (Variant Calling)"]
+    A[Analysis ready BAM files] --> B["Mutect2 / Clara Parabricks (Variant Calling)"]
     B --> C[FilterMutectCalls]
     C --> D[Pass Somatic VCFs]
     D --> E[TLOD and GERMQ Optimization]
